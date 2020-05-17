@@ -1,13 +1,13 @@
 {
   "name": "ngx-imageviewer-app",
-  "version": "0.0.0-development",
-  "author": "Hallyson Almeida <hallysonh@gmail.com>",
+  "version": "0.9.2",
+  "author": "Heinrich Reimer <heinrich.reimer@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hallysonh/ngx-imageviewer"
+    "url": "https://github.com/hreimer/ngx-imageviewer"
   },
-  "homepage": "https://github.com/hallysonh/ngx-imageviewer#readme",
+  "homepage": "https://github.com/hreimer/ngx-imageviewer#readme",
   "scripts": {
     "ng": "ng",
     "start": "yarn build:lib && ng serve",

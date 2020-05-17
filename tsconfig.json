@@ -17,7 +17,7 @@
       "dom"
     ],
     "paths": {
-      "@hallysonh/ngx-imageviewer": [
+      "@hreimer/ngx-imageviewer": [
         "dist/ngx-imageviewer"
       ]
     }

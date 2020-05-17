@@ -1,16 +1,16 @@
 {
-  "name": "@hallysonh/ngx-imageviewer",
-  "version": "0.0.0-development",
-  "author": "Hallyson Almeida <hallysonh@gmail.com>",
+  "name": "@hreimer/ngx-imageviewer",
+  "version": "0.9.2",
+  "author": "Heinrich Reimer <heinrich.reimer@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hallysonh/ngx-imageviewer"
+    "url": "https://github.com/hreimer/ngx-imageviewer"
   },
   "keywords":[
     "image", "viewer", "angular", "pdf", "canvas", "component"
   ],
-  "homepage": "https://github.com/hallysonh/ngx-imageviewer#readme",
+  "homepage": "https://github.com/hreimer/ngx-imageviewer#readme",
   "peerDependencies": {
     "@angular/common": "^8.2.10",
     "@angular/core": "^8.2.10",
@@ -18,5 +18,8 @@
   },
   "optionalDependencies": {
     "pdfjs-dist": "2.0.489"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
